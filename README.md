@@ -1,6 +1,7 @@
 # Slack Web API
 
-A Ruby wrapper for the Slack Web API
+A Ruby wrapper for the Slack Web API.
+Based on https://github.com/aki017/slack-ruby-gem, but only with support for Slack Web API.
 
 ## Installation
 
